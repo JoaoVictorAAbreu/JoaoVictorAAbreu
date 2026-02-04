@@ -24,13 +24,6 @@ Sou apaixonado por tecnologia e resolução de problemas. Atualmente, estou no i
 
 ---
 
-## 📊 Minhas Estatísticas no GitHub
-
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ## 🐍 Minha Atividade no GitHub
 
 ![Snake game de contribuições](https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg)
@@ -75,14 +68,14 @@ Sou apaixonado por tecnologia e resolução de problemas. Atualmente, estou no i
 
 ## 📫 Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuperfil)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@email.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seuinstagram)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joão-victor-abreu-455208351)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](joaovictoralvesabreu1@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/seuinstagram](https://www.instagram.com/0_jota12/))
 
 ---
 
 ⭐ Sinta-se à vontade para explorar meus repositórios!
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/{SEU_USUARIO}/count.svg" />
+<img src="https://i.pinimg.com/originals/3d/1c/6b/3d1c6b451abd3eb93b6d0fa33b0a5165.gif" />
 </p>
