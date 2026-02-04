@@ -75,7 +75,6 @@ Sou apaixonado por tecnologia e resolução de problemas. Atualmente, estou no i
 ---
 
 ⭐ Sinta-se à vontade para explorar meus repositórios!
-
 <p align="center">
-<img src="https://i.pinimg.com/originals/3d/1c/6b/3d1c6b451abd3eb93b6d0fa33b0a5165.gif" />
+<img src="https://i.pinimg.com/originals/3d/1c/6b/3d1c6b451abd3eb93b6d0fa33b0a5165.gif" width="500px" />
 </p>
