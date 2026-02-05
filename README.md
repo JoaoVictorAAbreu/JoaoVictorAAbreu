@@ -1,19 +1,53 @@
-# João Victor Alves de Abreu
+<p align="center">
+  <img src="LINK_DA_IMAGEM" alt="Banner" width="100%">
+</p>
 
-## Sobre mim
-Olá, me chamo João Victor e sou estudante de Ciência da Computação. Estou em uma fase de aprendizado intenso, buscando evoluir não só nos estudos, mas também como pessoa. Tenho interesse em criar coisas úteis, aprender com a prática e transformar ideias em projetos reais, mesmo que isso signifique errar e recomeçar algumas vezes.
+<h1 align="center">João Victor</h1>
 
-Sou alguém curioso, disciplinado quando tenho um objetivo claro e bastante focado em construir um futuro sólido. Valorizo constância, responsabilidade e crescimento gradual. Gosto de desafios que me tiram da zona de conforto e me fazem enxergar as coisas de forma mais madura e crítica.
-
-Este repositório faz parte do meu processo de evolução. Aqui registro estudos, projetos e experimentos que representam quem eu sou hoje e o caminho que estou construindo, passo a passo.
-
-## Tecnologias e Competências
-> Linguagens: Python, C, Java, JavaScript
-
-## Contato
-> LinkedIn: https://www.linkedin.com/in/joão-victor-abreu-455208351
-> Email: joaovictoralvesabreu1@gmail.com
-> Instagram: https://www.instagram.com/0_jota12/
+<p align="center">
+  Estudante de Ciência da Computação • Em constante evolução
+</p>
 
 ---
-Sinta-se à vontade para explorar meus repositórios.
+
+## Sobre mim
+
+Sou estudante de Ciência da Computação, focado em aprender de forma sólida e prática.
+Gosto de entender como as coisas funcionam por trás da abstração, buscando evolução técnica e pessoal por meio de estudo constante e projetos reais.
+
+Tenho interesse em desenvolvimento de software, lógica, dados e tecnologia aplicada a problemas do mundo real.
+
+---
+
+## O que estou estudando
+
+- Estruturas de Dados e Algoritmos  
+- Python aplicado a projetos  
+- Linguagem C e fundamentos de baixo nível  
+- Organização e Arquitetura de Computadores  
+- Inteligência Artificial e Prompt Engineering  
+
+---
+
+## Tecnologias
+
+<p>
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white"/>
+</p>
+
+---
+
+## Objetivos
+
+- Evoluir como desenvolvedor e estudante  
+- Criar projetos consistentes e bem estruturados  
+- Fortalecer lógica, base teórica e prática  
+- Construir uma trajetória sólida na área de tecnologia  
+
+---
+
+## Contato
+
+- 📧 Email: seuemail@email.com  
+- 💼 LinkedIn: linkedin.com/in/seuperfil
