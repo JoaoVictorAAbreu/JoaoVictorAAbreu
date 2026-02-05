@@ -1,12 +1,11 @@
-<p align="center">
+
   <img src="[LINK_DA_IMAGEM](https://i.pinimg.com/736x/18/47/19/18471941d8dc978a8e17dffe556a5e68.jpg)" alt="Banner" width="100%">
-</p>
 
 <h1 align="center">João Victor</h1>
 
-<p align="center">
-  Estudante de Ciência da Computação • Em constante evolução
-</p>
+
+  <p> Estudante de Ciência da Computação • Em constante evolução </p>
+
 
 <br>
 
